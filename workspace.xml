@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bfdf5a2-d755-46af-ae25-f947a682a894" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2m6KDUTPLvcoLI3qbNFJdBxV171" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.All_Patient_Info.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Department.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee_info.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NEW_PATIENT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.update_patient_details (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.update_patient_details.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Komal/Downloads/ResultSet2xml.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Komal/IdeaProjects/Medical management system/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Department" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Department" />
+      <module name="Medical management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Login" />
+      <module name="Medical management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NEW_PATIENT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.NEW_PATIENT" />
+      <module name="Medical management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reception (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Reception" />
+      <module name="Medical management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hospital.management.system.Reception" />
+      <module name="Medical management system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hospital.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Reception" />
+        <item itemvalue="Application.NEW_PATIENT" />
+        <item itemvalue="Application.Reception (1)" />
+        <item itemvalue="Application.Department" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bfdf5a2-d755-46af-ae25-f947a682a894" name="Changes" comment="" />
+      <created>1726391471774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726391471774</updated>
+    </task>
+    <servers />
+  </component>
+</project>
